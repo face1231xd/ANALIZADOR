@@ -1,0 +1,29 @@
+package AS_Y_AL;
+
+public enum Tokens {
+    SALTOLINEA,
+    ABREPARE,
+    CIERRAPARE,
+    COMA,
+    PUNTO_COMA,
+    APOSTROFE,
+    DDL,
+    DQL,
+    DML,
+    DCL,
+    TCL,
+    OPERADOR_COMPARATIVO,
+    OPERADOR_BOOLEANO,
+    OPERADOR_LOGICO,
+    SQL_JOINS,
+    CONDICIONAL,
+    PALABRA_RESERVADA,
+    ASIGNACION,
+    FILTROTRAN,
+    ALL,
+    RESTRICCION,
+    TIPO_DATO,
+    IDENTIFICADOR,
+    NUMERO,
+    ERROR
+}
